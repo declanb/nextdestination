@@ -4,6 +4,12 @@
 
 ---
 
+## 💻 Demo Screenshot
+
+![App Screenshot](nextdestination.png)
+
+---
+
 ## 🌍 Overview
 
 **NextDestAInation** is a modern, full-stack travel assistant demo designed to showcase:
